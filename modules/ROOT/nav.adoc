@@ -22,6 +22,9 @@
 * xref:sgcollect-info.adoc[SGCollect Info]
 
 .Deployment
+* Kubernetes
+** xref:installing-kubernetes.adoc[Installing Kubernetes]
+** xref:managing-kubernetes.adoc[Managing Kubernetes]
 * xref:upgrade.adoc[Upgrade]
 * xref:security.adoc[Security]
 * xref:load-balancer.adoc[NGINX]
